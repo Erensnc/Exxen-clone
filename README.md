@@ -1,3 +1,6 @@
+to see it on the website, open the terminal in vscode
+and just type "npm run dev"
+
 ![image](https://github.com/Erensnc/Exxen-clone/assets/89195983/dc9abd11-3c22-4b71-99b9-22a997fe483a)
 
 ![image](https://github.com/Erensnc/Exxen-clone/assets/89195983/e0e9ece6-2673-4a70-af5d-5ffaab78ddcf)
